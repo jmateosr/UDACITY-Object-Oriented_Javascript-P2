@@ -1,1 +1,5 @@
-**OBJECT-ORIENTED Javascript**
+#OBJECT-ORIENTED Javascript#
+
+##SCOPES##
+
+##"THIS" PARAMETER##
